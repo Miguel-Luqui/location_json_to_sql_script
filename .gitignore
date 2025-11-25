@@ -185,3 +185,7 @@ input_jsons/*
 
 # Output SQL file
 output_sql/*
+
+# Database test files
+database
+docker-compose.yml
