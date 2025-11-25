@@ -12,16 +12,6 @@ Script Python que transforma arquivos JSON de localização (cidades, estados, r
 
 ---
 
-## Estrutura do projeto
-
-├── input_jsons/ # Pasta onde os JSONs de entrada devem ser colocados
-├── output_sql/ # Pasta onde os arquivos SQL gerados serão salvos
-├── location_seeder_generator.py # Script principal
-├── CONTRIBUTING.md # Instruções de uso detalhadas
-└── README.md
-
----
-
 ## Como usar
 
 Para instruções detalhadas de uso, incluindo como baixar os JSONs, executar o script e rodar o SQL no banco, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
